@@ -1,3 +1,4 @@
 body {
-	background-image: <img_src="homebackground.jpg">
+	background: <img_src="homebackground.jpg" alt="Background lighting image" title="HomeBackground">;
+	background-size: cover;
 }
