@@ -2,6 +2,7 @@ body {
 	background: <img_src="images/homebackground.jpg" alt="Background lighting image" title="HomeBackground">;
 	background-size: cover;
 }
+
 h1 {
 	color: blue;
 }
