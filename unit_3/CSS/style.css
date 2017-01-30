@@ -1,6 +1,7 @@
 body {
 	background: <img_src="images/homebackground.jpg" alt="Background lighting image" title="HomeBackground">;
 	background-size: cover;
+	background-color: rgba(255,255,0,1);
 }
 
 h1 {
