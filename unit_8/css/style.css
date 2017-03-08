@@ -218,9 +218,14 @@ footer {
 		visibility: hidden;
 	}
 	h1 {
-		width: 100%;
+		font-size: 1em;
+	}
+	h3 {
+		font-size: .75em;
 	}
 	
 }
+
+
 
 -notes -resize background image to fit screens, 
