@@ -28,7 +28,7 @@ li a {
 	font-size: 1em;
 	font-weight: 400;
 	letter-spacing: .1em;
-	background-color: red;
+	background-color: black;
 }
 
 li a:hover {
@@ -211,7 +211,7 @@ footer {
 
 @media (max-width: 677px) {
 	li {
-		float: 
+		float: right;
 		background-color: black;
 		font-size: .75em;
 	}
