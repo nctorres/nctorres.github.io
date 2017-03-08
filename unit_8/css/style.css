@@ -213,7 +213,8 @@ footer {
 	li {
 		float: 
 		background-color: black;
-		font-size: .8em;
+		font-size: .75em;
+		padding: 5px;
 	}
 	.nav-bot {
 		visibility: hidden;
