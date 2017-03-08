@@ -184,9 +184,7 @@ footer {
 }
 
 @media (max-width: 768px) {
-	h1 {
-		font-size: 2em;
-	}
+
 	nav {
 		float: none;
 	}
@@ -218,6 +216,9 @@ footer {
 	}
 	.nav-bot {
 		visibility: hidden;
+	}
+	h1 {
+		width: 100%;
 	}
 	
 }
