@@ -22,12 +22,13 @@ li a {
 	display: block;
 	color: white;
 	text-align: center;
-	padding: 10px 20px;
+	padding: 10px 25px;
 	text-decoration: none;
 	font-family: 'Arial', serif;
 	font-size: 1em;
 	font-weight: 400;
 	letter-spacing: .1em;
+	background-color: red;
 }
 
 li a:hover {
@@ -212,7 +213,7 @@ footer {
 	li {
 		float: 
 		background-color: black;
-		font-size: .75em;
+		font-size: .8em;
 	}
 	.nav-bot {
 		visibility: hidden;
