@@ -184,6 +184,9 @@ footer {
 }
 
 @media (max-width: 768px) {
+	h1 {
+		font-size: 2em;
+	}
 	nav {
 		float: none;
 	}
@@ -202,7 +205,6 @@ footer {
 		width: 80%;
 		padding-left: 10%;
 	}
-	.logo {}
 	#threecolumn {
 		background-image: url("images/homebackground1.jpg");
 	}
@@ -217,12 +219,7 @@ footer {
 	.nav-bot {
 		visibility: hidden;
 	}
-	.logo {
-		margin-left:
-		margin-right: 0%;		
-		padding-left:		
-		padding-right: 0%; 
-	}
+	
 }
 
 -notes -resize background image to fit screens, 
