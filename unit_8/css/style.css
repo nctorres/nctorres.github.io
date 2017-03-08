@@ -22,7 +22,7 @@ li a {
 	display: block;
 	color: white;
 	text-align: center;
-	padding: 10px 20px;
+	padding: .75em 1.2em;
 	text-decoration: none;
 	font-family: 'Arial', serif;
 	font-size: 1em;
@@ -214,7 +214,6 @@ footer {
 		float: 
 		background-color: black;
 		font-size: .75em;
-		padding: 5px;
 	}
 	.nav-bot {
 		visibility: hidden;
