@@ -220,8 +220,8 @@ footer {
 	h1 {
 		font-size: 1.5em;
 	}
-	h3 {
-		font-size: .5em;
+	#ldhead {
+		font-size: .75em;
 	}
 	
 }
